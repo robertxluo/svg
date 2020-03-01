@@ -1,20 +1,20 @@
-# svg hosting
+# SVG Hosting
 
-use them like this:
+Use them like this:
 
-```markdown
-![](https://raw.github.com/robertxluo/svg/master/down.svg?sanitize=true)
-```
+https://raw.github.com/robertxluo/svg/master/laptop.svg?sanitize=true
+
+
 
 or like this:
 
 ```markdown
-<img src="https://raw.github.com/robertxluo/svg/master/down.svg?sanitize=true"/>
+<img src="https://raw.github.com/robertxluo/svg/master/laptop.svg?sanitize=true" />
 ```
 
-### icons
+### Icons
 name|icon|url
 -|-|-
-down | <img src="https://raw.github.com/robertxluo/svg/master/down.svg?sanitize=true"/>|`![](https://raw.github.com/robertxluo/svg/master/down.svg?sanitize=true)`
-up|<img src="https://raw.github.com/robertxluo/svg/master/up.svg?sanitize=true"/>|`![](https://raw.github.com/robertxluo/svg/master/up.svg?sanitize=true)`
-check|<img src="https://raw.github.com/robertxluo/svg/master/check.svg?sanitize=true"/>|`![](https://raw.github.com/robertxluo/svg/master/check.svg?sanitize=true)`
+Laptop | <img src="https://raw.github.com/robertxluo/svg/master/laptop.svg?sanitize=true"/> | https://raw.github.com/robertxluo/svg/master/laptop.svg?sanitize=true
+Monitor | <img src="https://raw.github.com/robertxluo/svg/master/monitor.svg?sanitize=true"/> | https://raw.github.com/robertxluo/svg/master/monitor.svg?sanitize=true
+Device | <img src="https://raw.github.com/robertxluo/svg/master/device.svg?sanitize=true"/> | https://raw.github.com/robertxluo/svg/master/monitor.svg?sanitize=true
